@@ -1,1 +1,1 @@
-# Hibernate-Advanced-Mapping-ManytoMany-
+# Hibernate-Advanced-Mapping-ManytoMany
